@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Side Project\CSharpTest\bin\Debug\net7.0\CSharpTest.exe
+C:\Users\User\Documents\Side Project\CSharpTest\bin\Debug\net7.0\CSharpTest.deps.json
+C:\Users\User\Documents\Side Project\CSharpTest\bin\Debug\net7.0\CSharpTest.runtimeconfig.json
+C:\Users\User\Documents\Side Project\CSharpTest\bin\Debug\net7.0\CSharpTest.dll
+C:\Users\User\Documents\Side Project\CSharpTest\bin\Debug\net7.0\CSharpTest.pdb
+C:\Users\User\Documents\Side Project\CSharpTest\obj\Debug\net7.0\CSharpTest.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Side Project\CSharpTest\obj\Debug\net7.0\CSharpTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Side Project\CSharpTest\obj\Debug\net7.0\CSharpTest.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Side Project\CSharpTest\obj\Debug\net7.0\CSharpTest.AssemblyInfo.cs
+C:\Users\User\Documents\Side Project\CSharpTest\obj\Debug\net7.0\CSharpTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Side Project\CSharpTest\obj\Debug\net7.0\CSharpTest.dll
+C:\Users\User\Documents\Side Project\CSharpTest\obj\Debug\net7.0\refint\CSharpTest.dll
+C:\Users\User\Documents\Side Project\CSharpTest\obj\Debug\net7.0\CSharpTest.pdb
+C:\Users\User\Documents\Side Project\CSharpTest\obj\Debug\net7.0\CSharpTest.genruntimeconfig.cache
+C:\Users\User\Documents\Side Project\CSharpTest\obj\Debug\net7.0\ref\CSharpTest.dll

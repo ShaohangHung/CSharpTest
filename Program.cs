@@ -3,7 +3,7 @@
 class Student
 {
     int StudentId;
-    string StudentName;
+    string StudentName = "";
 
     public void SetStudent(int id, string name)
     {
